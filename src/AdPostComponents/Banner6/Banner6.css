@@ -1,0 +1,26 @@
+.Banner6{
+    width: 100%;
+    min-height: 50vh;
+    background: linear-gradient(rgba(23, 23, 26, 0.6),rgba(23, 23, 26, 0.6)), url('../../assets/Banner6.png');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Banner6-text{
+    text-align: center;
+    max-width: 800px;
+    
+}
+.Banner6-text h1{
+    font-size: 60px;
+    font-weight: 600;
+}
+.Banner6-text p{
+    max-width: 700px;
+    margin: 10px auto 20px;
+    line-height: 1.4;
+}
+

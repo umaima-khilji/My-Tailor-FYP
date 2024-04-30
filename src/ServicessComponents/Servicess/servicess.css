@@ -1,0 +1,23 @@
+.Pservicess{
+    margin: 80px auto;
+    width: 80%;
+    text-align: center;
+}
+
+.Pservices{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.Pservices img{
+width: 35%;
+border-radius: 10px;
+padding-right: 30px;
+padding-left: 30px;
+
+}
+
+
+

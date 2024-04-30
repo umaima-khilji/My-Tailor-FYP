@@ -1,0 +1,30 @@
+.service{
+    margin: 80px auto;
+    width: 80%;
+    text-align: center;
+}
+
+.buton{
+    margin-top: 40px;
+    background: #4aec80;
+    color: #212121;
+    padding: 14px 25px;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.card img{
+    border-radius: 10px;
+}
+.card p{
+    padding-left:50px ;
+    padding-right:50px ;
+    padding-top: 5px;
+}

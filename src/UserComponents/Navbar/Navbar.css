@@ -1,0 +1,70 @@
+nav{
+    width: 100%;
+    /* background: #333; */
+    color: #fffdff;
+    padding: 4px 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 10;
+    cursor: pointer;
+    /* background-color: rgb(194, 180, 180); */
+    box-shadow: 0 1px 3px -2px black;
+}
+.logo{
+    width: 200px;
+}
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 5px 20px;
+    font-size: 16px;
+    
+}
+nav ul li hr{
+    border: none;
+    width: 105%;
+    height: 3px;
+    border-radius: 10px;
+    background: #224F34;
+}
+
+.dark-nav{
+    background: black;
+    transition: 0.5s;
+}
+.button{
+    width: 157px;
+    height: 48px;
+    outline: none;
+    border: 1px solid #7a7a7a;
+    border-radius: 75px;
+    color: #515151;
+    font-size: 20px;
+    font-weight: 500;
+    background: white;
+    cursor: pointer;
+}
+
+.login-icons{
+    display: flex;
+    align-items: center;
+   gap: 20px;
+    
+}
+.nav-cart-count{
+    width: 22px;
+    height: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -35px;
+    margin-left: -34px;
+    border-radius: 11px;
+    font-size: 14px;
+background: red;
+color: white;
+}

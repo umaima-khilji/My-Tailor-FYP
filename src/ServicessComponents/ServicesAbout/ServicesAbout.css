@@ -1,0 +1,37 @@
+
+.ServiceAbout{
+    margin: 100px auto;
+    display: flex;
+    align-items: center ; 
+    justify-content: space-between;
+    width: 100%;
+     background-color: #A3F3BE; 
+}
+.Sabout-left{
+    flex-basis: 56%;
+    margin-left: 78px;
+    margin-right: 20px;
+}
+.Sabout-left h3{
+    font-size: 60px;
+    margin-top: 20px;
+}
+.Sabout-left p{
+    font-size: larger;
+    margin-top: 20px;
+}
+.Sabout-left ul{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.Sabout-right{
+    flex-basis: 46%;
+    position: relative;
+    /* margin-right: 70px; */
+}
+.service-img{
+    width: 100%;
+    margin-top: 90px;
+}
+
